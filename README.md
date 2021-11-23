@@ -2,4 +2,5 @@
 # testing the git fetch and merge command
 # git fech and merge worked
 # checked out to main no branch stuff commit here
-# This line is for the bug fix branch
+# This is the line for my new feature branch
+# another line for feature branch
